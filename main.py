@@ -50,7 +50,6 @@ def banner(console):
     print(Colorate.Horizontal(Colors.rainbow, '\t         Пожалуйста, войдите в CPM перед использованием этого инструмента'))
     print(Colorate.Horizontal(Colors.rainbow, '    Совместное использование ключа доступа запрещено и будет заблокировано'))
     print(Colorate.Horizontal(Colors.rainbow, '                Telegram - Владелец: @Mister_Dlzz'))
-    print(Colorate.Horizontal(Colors.rainbow, '                Telegram - Разработик: @ChixNode'))
     print(Colorate.Horizontal(Colors.rainbow, '============================================================'))
 
 
